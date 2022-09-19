@@ -1,0 +1,55 @@
+body,html{
+    height: 100%;
+    margin: 0px;
+}
+
+
+body{
+    background-color: rgb(100, 46, 48);
+}
+
+
+nav li{
+    display: inline;
+    margin: 20px;
+}
+    
+
+
+nav ul{
+    background-color:rgb(116, 71, 71);
+    margin: 0;
+    list-style-type:none;
+    width:100%;
+    padding: 20px;
+    
+}
+
+
+nav a{
+    color:rgb(15, 15, 15);
+    text-decoration: none;
+}
+
+
+
+.hero-image{
+    background-image:url("../images/MyPhoto.JPG");
+    height: 35%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;   
+    position: relative;
+
+
+}
+
+
+
+
+.hero-text{
+    color:black;
+    text-align:left;
+    position:absolute;
+
+}
